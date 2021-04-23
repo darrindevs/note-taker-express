@@ -9,7 +9,6 @@ This note taking app uses the Express web framework for node to provide routing 
 ![Note Taker Express](https://zno.s3-us-west-1.amazonaws.com/NTE.png)
 
 
-
 ## Technologies Used
 
 🏗 JavaScript - JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm.
