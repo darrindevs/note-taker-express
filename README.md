@@ -4,10 +4,13 @@
 
 This note taking app uses the Express web framework for node to provide routing between pages.  
 
+[Deployed App](https://mighty-inlet-59463.herokuapp.com/)
+
 ## Screenshots
 
 ![Note Taker Express](https://zno.s3-us-west-1.amazonaws.com/NTE.png)
 
+![Deployed to Heroku](https://zno.s3-us-west-1.amazonaws.com/NTE+Heroku.png) 
 
 ## Technologies Used
 
@@ -22,6 +25,8 @@ This note taking app uses the Express web framework for node to provide routing 
 ☑️ Git - Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 ⛅️ GitHub - GitHub, Inc. is a provider of Internet hosting for software development and version control using Git.
+
+🛠 Heroku - Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 
 ## Code Snippet 
 
